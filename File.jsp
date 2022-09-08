@@ -8,7 +8,7 @@
 		</style>
 		<center>
 			<h1 style="font-size: 40px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; margin-top: 150px;">
-				HIT - DevOps Final Project - Maxim Svishech
+				HIT - DevOps Final Project
 			</h1>
 			<h2 style="font-size: 25px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
 				Students: Maxim Svishech, Razi Ali Saleh, Yuval Zvi Adar
